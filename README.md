@@ -1,3 +1,3 @@
-# tribes
+# Tribes
 
 The project entails the development of a backend system with specific dependencies including Java Development Kit (JDK) 17, Spring Boot Data JPA, Spring Security, Spring Web, Flyway, Javax Mail, and Java Dotenv. In adherence to development rules, Lombok usage is to be avoided, and only necessary getters/setters are to be defined. Configuration should be comprehensive, avoiding hard-coded values, with error messages stored in designated files for internationalization. Data Transfer Objects (DTOs) are to be employed for request/response data, following specific naming conventions for entities, models, tables, and columns. Test method naming and code formatting should maintain consistency, ensuring comprehensive test coverage and adherence to the Google Java Style Guide.
